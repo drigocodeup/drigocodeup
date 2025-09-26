@@ -4,9 +4,9 @@
 
 Me chamo **Rodrigo Afonso de Souza**, sou natural de Volta Redonda - RJ.  
 Possuo mais de **15 anos de experiência na área industrial**, atuando em grandes siderúrgicas e indústrias metalúrgicas, com vivência internacional na Alemanha.  
-Atualmente, curso **Pós-Graduação em Automação Industrial e Robótica** e aplico meus conhecimentos em **projetos com Python, HTML e C++**, explorando também **Inteligência Artificial** em automação e monitoramento.  
+Atualmente, curso **Pós-Graduação em Automação Industrial e Robótica** e aplico meus conhecimentos em **projetos com Python, Arduino, ESP32 e IoT**, explorando também **Inteligência Artificial** em automação e monitoramento de energia solar.  
 
-Sou apaixonado por **tecnologia, automação e programação**, e venho desenvolvendo soluções que unem **engenharia e software** para eficiência industrial.  
+Sou apaixonado por **tecnologia, inovação e programação**, e venho desenvolvendo soluções que unem **engenharia e software** para eficiência industrial e novas aplicações.  
 
 ---
 
@@ -21,14 +21,29 @@ Sou apaixonado por **tecnologia, automação e programação**, e venho desenvol
 
 ### 🤖 Linguagens e Tecnologias  
 
-<img align="left" alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>  
-<img align="left" alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>  
-<img align="left" alt="C++" title="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>  
-<img align="left" alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>  
-<img align="left" alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>  
-<img align="left" alt="Automation" title="Automação Industrial" width="40px" src="https://cdn-icons-png.flaticon.com/512/4303/4303532.png"/>  
+<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>  
+<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>  
+<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>  
+<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>  
+<img align="left" alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>  
+<img align="left" alt="Raspberry Pi" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/>  
+<img align="left" alt="Excel VBA" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png"/>  
+<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>  
+<img align="left" alt="Ladder" width="40px" src="https://cdn-icons-png.flaticon.com/512/465/465049.png"/>  
+<img align="left" alt="Automation" width="40px" src="https://cdn-icons-png.flaticon.com/512/4303/4303532.png"/>  
 
 <br clear="left"/>
+
+---
+
+### 🧠 Soft Skills  
+
+- Aprendizado contínuo & Adaptabilidade  
+- Resolução de problemas complexos  
+- Criatividade e inovação em projetos  
+- Comunicação clara e colaboração  
+- Liderança e gestão de equipes  
+- Organização e disciplina (Lean Manufacturing)  
 
 ---
 
@@ -60,7 +75,7 @@ Sou apaixonado por **tecnologia, automação e programação**, e venho desenvol
   Gestão de equipe e implementação de melhorias Lean Manufacturing.  
 
 - **ArcelorMittal | CSP | Votorantim | CSN (2007 - 2020)**  
-  Experiência em **fusão, refino e controle de qualidade do aço**.  
+  Experiência em **fusão, refino, instrumentação e controle de qualidade do aço**.  
 
 ---
 
@@ -74,10 +89,12 @@ Sou apaixonado por **tecnologia, automação e programação**, e venho desenvol
 
 ### 🏅 Cursos e Certificações  
 
-- PLC Rockwell & Siemens | Instrumentação Industrial  
-- Lean Six Sigma White Belt | Gestão de Projetos  
-- Inversores de Frequência, Soft-Starters, Comandos Elétricos  
+- PLC Rockwell & Siemens | Ladder | SDCD  
+- Excel Avançado & VBA | Automação de Relatórios  
+- Instrumentação Industrial | Comandos Elétricos  
 - Instalador Fotovoltaico | Empreendedor Solar  
+- Lean Six Sigma White Belt | Gestão de Projetos & Produção  
+- Soft-starter & Inversores de Frequência  
 
 ---
 
