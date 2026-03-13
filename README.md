@@ -62,6 +62,8 @@ Sou apaixonado por **tecnologia, inovação e programação**, e venho desenvolv
     height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigocodeupGitHub&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
+
+  
 </p>
 
 
@@ -83,7 +85,8 @@ Sou apaixonado por **tecnologia, inovação e programação**, e venho desenvolv
 
 ### 🎓 Formação  
 
-- Pós-Graduação em Automação Industrial e Robótica *(em andamento)*  
+- Mestrado em Computação Aplicada Ciência e Tecnologia *(em andamento)*  
+- Pós-Graduação em Automação Industrial e Robótica
 - Engenharia Elétrica  
 - Técnico em Eletrônica  
 
