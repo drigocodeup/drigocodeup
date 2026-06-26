@@ -49,24 +49,22 @@ Sou apaixonado por **tecnologia, inovação e programação**, e venho desenvolv
 
 ### 📊 Estatísticas GitHub  
 
-<p>
+<p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=drigocodeupGitHub&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_CORRETO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     align="left" 
     alt="Top Langs" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigocodeupGitHub&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_CORRETO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
-
-  
 </p>
 
-
+<br clear="left"/>
 
 ---
 
@@ -86,7 +84,7 @@ Sou apaixonado por **tecnologia, inovação e programação**, e venho desenvolv
 ### 🎓 Formação  
 
 - Mestrado em Computação Aplicada Ciência e Tecnologia *(em andamento)*  
-- Pós-Graduação em Automação Industrial e Robótica
+- Pós-Graduação em Automação Industrial e Robótica  
 - Engenharia Elétrica  
 - Técnico em Eletrônica  
 
@@ -98,7 +96,7 @@ Sou apaixonado por **tecnologia, inovação e programação**, e venho desenvolv
 - Excel Avançado & VBA | Automação de Relatórios  
 - Instrumentação Industrial | Comandos Elétricos  
 - Instalador Fotovoltaico | Empreendedor Solar  
-- Lean Six Sigma White Belt | Gestão de Projetos & Produção  
+- Lean Six Sigma White Belt | Gestão de Projetos & Production  
 - Soft-starter & Inversores de Frequência  
 
 ---
